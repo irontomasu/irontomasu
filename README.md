@@ -1,6 +1,6 @@
 ### About noLee
 I'm a maste's student in Japan.
-I specialize in blockchain and information security.
+  I specialize in blockchain and information security.
 
 <!--
 **nori5/nori5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
