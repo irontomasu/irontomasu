@@ -1,4 +1,5 @@
-# About noLee
+### About noLee
+I specialize in blockchain and information security.
 
 <!--
 **nori5/nori5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
